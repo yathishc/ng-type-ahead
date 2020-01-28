@@ -1,0 +1,33 @@
+.container {
+    margin-top:100px;
+    border: 1px solid rgb(192, 191, 191);
+    height:200px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px 0px rgba(141, 141, 141, 0.75);
+}
+
+.form-control{
+    border:1px solid  #e5e5e5;
+    border-left: 0px solid;
+    float:left;
+    margin-top:11px;
+    outline:0;
+    padding:.4em 0 .4em .6em; 
+    width:183px; 
+}
+  
+.button-holder{
+    border:1px solid #e5e5e5;
+    border-right: 0px solid;
+    cursor:pointer;
+    float:left;
+    margin:11px 0 0 0;
+    padding:.4em 0 .4em .6em; 
+    text-align:center;
+    width:50px;
+}
+  
+.button-holder img{
+    margin:1px;
+    width:16px; 
+}
